@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I’m Milian Lindström
 
-<!--
-**milianlindstrom/milianlindstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m the founder of **[Clyqra](https://clyqra.com)**, and a third-year B.Sc in Economics and Computer & System Sciences student at Stockholm University. I build modern SaaS tools for freelancers, consultants, and small business owners.  
 
-Here are some ideas to get you started:
+💡 Currently focused on:
+- 🧠 Building **Clyqra PRM**, a personal professional relationship management system built with **React**, **TypeScript**, and **Supabase**
+- ⚡ Experimenting with AI assistants, automation, and human-first UX
+- 🧩 Designing connected micro-apps under the Clyqra brand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in **Stockholm, Sweden**  
+☕ Always learning, always shipping.  
+
+---
+
+### 🧭 What I’m building
+- **Clyqra PRM** – personal CRM for consultants and freelancers  
+- **Clyqra Sprint** – agile taskboard inspired by Todoist  
+- **North Star** – an intelligent layer over these tools acting as a Company OS
+
+---
+
+### 📫 Let’s connect
+[🌐 clyqra.com](https://clyqra.com) • [💼 LinkedIn](https://linkedin.com/in/milianlindstrom) • [✉️ contact@clyqra.com](mailto:contact@clyqra.com)
+
+---
+
+> _“Because people aren't leads - They're your network.”_
