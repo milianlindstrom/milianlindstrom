@@ -14,7 +14,7 @@ I’m the founder of **[Clyqra](https://clyqra.com)**, and a third-year B.Sc in 
 
 ### 🧭 What I’m building
 - **Clyqra PRM** – personal CRM for consultants and freelancers  
-- **Ulft** – Ideas-to-PR assistant in your phone
+- **Ulf** – Ideas-to-PR assistant in your phone
 
 ---
 
