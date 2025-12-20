@@ -14,8 +14,7 @@ I’m the founder of **[Clyqra](https://clyqra.com)**, and a third-year B.Sc in 
 
 ### 🧭 What I’m building
 - **Clyqra PRM** – personal CRM for consultants and freelancers  
-- **Clyqra Sprint** – agile taskboard inspired by Todoist  
-- **North Star** – an intelligent layer over these tools acting as a Company OS
+- **Ulft** – Ideas-to-PR assistant in your phone
 
 ---
 
