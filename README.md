@@ -19,7 +19,7 @@ I’m the founder of **[Clyqra](https://clyqra.com)**, and a third-year B.Sc in 
 ---
 
 ### 📫 Let’s connect
-[🌐 clyqra.com](https://clyqra.com) • [💼 LinkedIn](https://linkedin.com/in/milianlindstrom) • [✉️ contact@clyqra.com](mailto:contact@clyqra.com)
+[🌐 prm.clyqra.com](https://prm.clyqra.com) • [💼 LinkedIn](https://linkedin.com/in/milianlindstrom) • [✉️ contact@clyqra.com](mailto:contact@clyqra.com)
 
 ---
 
